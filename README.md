@@ -7,7 +7,7 @@ Data Scientist Coding Exercise
 - Ensure that your coding platform (e.g., Google Colab) is set up and fully functional.
 - Confirm that the development environment has the necessary libraries pre-installed (e.g., Python, pandas, scikit-learn, Jupyter Notebook).
 - The 3 CSV files are included in this repository. They will be needed for this exercise.
-- Once completed, please share your colab notebook or zip up the code and email it to the Stord talent acquisition team member you have been working with.
+- Once completed, please share your colab notebook and outputs or zip up the code and outputs. Email it to the Stord talent acquisition team member you have been working with.
 
 ## Statistical Inference
 **Model Building and Evaluation**
@@ -46,5 +46,28 @@ https://github.com/stordco/data-science-coding-exercise/blob/e8ee79cec4067fef8a3
 A dictionary with customer IDs and their corresponding total transaction amounts.
 
 **Dataset**
+
+https://github.com/stordco/data-science-coding-exercise/blob/54f77ac0e37b1e4f7ce46bc66397ce0b7dad8c3f/customer_transactions_small.csv
+
+## Predictive Analytics
+
+**Model Building and Hyperparameter Tuning**
+- You are given a dataset containing customer churn information for a telecommunications company.
+- The dataset includes customer_id, tenure, monthly_charges, total_charges, contract_type, and churn (1 if the customer churned, 0 otherwise).
+- Your task is to build a logistic regression model to predict customer churn and perform hyperparameter tuning using cross-validation.
+
+**Instructions**
+1. Load the dataset.
+2. Perform any necessary data cleaning and feature engineering.
+3. Split the dataset into training and testing sets.
+4. Train a logistic regression model and use cross-validation to find the best hyperparameters.
+5. Evaluate the final model on the testing set using accuracy, precision, recall, and F1 score.
+
+**Expected Output**
+Accuracy, precision, recall, and F1 score for the test set
+
+**Dataset**
+
+
 
 
