@@ -68,6 +68,6 @@ Accuracy, precision, recall, and F1 score for the test set
 
 **Dataset**
 
-
+https://github.com/stordco/data-science-coding-exercise/blob/9ec469ef3f73609f7d0923d9ac8e234863e482f8/customer_churn-predict-model-q3-hard.csv
 
 
