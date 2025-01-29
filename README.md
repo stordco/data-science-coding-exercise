@@ -26,3 +26,25 @@ Accuracy, precision, recall, and F1 score
 
 **Dataset**
 
+https://github.com/stordco/data-science-coding-exercise/blob/e8ee79cec4067fef8a32ba7aeb9c4ea17087a8a5/marketing_campaign-stat-inf-q3-hard.csv
+
+## General Programming
+
+**Model Building and Data Analysis**
+- You are given a dataset of customer transactions in a CSV file.
+- The dataset includes transaction_id, customer_id, transaction_amount, and transaction_date.
+- Your task is to write a function that reads the dataset and returns the total transaction amount for each customer.
+
+**Instructions**
+1. Write a function named total_transaction_amount_per_customer.
+2. The function should take a file path as input.
+3. Read the CSV file into a pandas DataFrame.
+4. Group the data by customer_id and calculate the total transaction amount for each customer.
+5. Return a dictionary where the keys are customer_id and the values are the total transaction amounts.
+
+**Expected Output**
+A dictionary with customer IDs and their corresponding total transaction amounts.
+
+**Dataset**
+
+
