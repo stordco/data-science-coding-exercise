@@ -1,0 +1,1001 @@
+customer_id,tenure,monthly_charges,total_charges,contract_type,churn
+1,39,42,1812,Two year,0
+2,52,98,5249,Two year,1
+3,29,33,1577,One year,0
+4,15,85,1344,One year,0
+5,43,94,4560,One year,1
+6,8,70,642,One year,0
+7,21,57,1181,Two year,1
+8,39,83,3163,Two year,1
+9,58,57,3607,Month-to-month,1
+10,19,69,1639,Month-to-month,0
+11,23,49,1246,Two year,1
+12,11,98,1304,Month-to-month,0
+13,11,70,515,Two year,0
+14,24,82,1659,Month-to-month,1
+15,53,71,4012,One year,0
+16,36,57,2027,Month-to-month,0
+17,40,98,4069,One year,1
+18,24,49,1033,One year,0
+19,3,70,541,One year,0
+20,22,24,220,One year,1
+21,53,48,2267,Month-to-month,0
+22,2,23,334,Two year,1
+23,24,29,175,One year,0
+24,44,75,3375,Month-to-month,0
+25,30,36,1059,One year,0
+26,38,93,3387,Month-to-month,0
+27,2,36,33,Month-to-month,0
+28,21,88,1679,Month-to-month,1
+29,33,53,2057,Two year,0
+30,12,25,660,Month-to-month,0
+31,58,72,4039,Month-to-month,0
+32,22,85,1925,Two year,0
+33,44,96,3959,Two year,0
+34,25,62,1764,Month-to-month,0
+35,49,94,4815,Two year,0
+36,27,42,1075,One year,0
+37,59,74,4369,One year,0
+38,42,99,4140,Two year,0
+39,28,94,2309,Two year,0
+40,16,35,869,Month-to-month,0
+41,15,27,252,Two year,1
+42,47,23,929,Month-to-month,0
+43,51,23,1143,One year,1
+44,44,75,3499,Two year,0
+45,55,44,2302,Month-to-month,0
+46,52,86,4082,Month-to-month,1
+47,57,86,4725,One year,0
+48,3,46,222,Two year,1
+49,37,51,2324,One year,0
+50,51,69,3268,Month-to-month,0
+51,7,80,301,Month-to-month,0
+52,21,70,1168,Two year,0
+53,9,38,15,Month-to-month,0
+54,39,40,1801,Two year,0
+55,18,24,730,One year,0
+56,4,61,279,Two year,0
+57,25,80,1907,Two year,0
+58,14,41,932,Month-to-month,0
+59,50,40,2034,Month-to-month,1
+60,58,89,5379,Two year,0
+61,9,20,77,Month-to-month,1
+62,26,24,632,Month-to-month,1
+63,53,31,1396,Month-to-month,0
+64,2,65,255,Two year,0
+65,20,53,1098,Month-to-month,0
+66,28,68,1726,Two year,0
+67,47,97,4383,Month-to-month,0
+68,7,64,771,One year,0
+69,44,46,2418,Month-to-month,0
+70,8,92,694,Month-to-month,0
+71,47,45,2128,Two year,0
+72,35,66,2390,Two year,0
+73,14,75,1079,Month-to-month,0
+74,17,82,1060,One year,1
+75,36,67,2497,Month-to-month,0
+76,50,80,3583,Month-to-month,0
+77,40,45,1654,One year,0
+78,4,55,321,Two year,0
+79,2,20,159,Month-to-month,0
+80,6,27,0,Two year,0
+81,54,71,3743,Two year,0
+82,42,98,3998,One year,0
+83,4,66,244,One year,0
+84,54,75,4045,Two year,0
+85,29,33,1090,Month-to-month,0
+86,18,47,743,Two year,1
+87,26,97,2596,Month-to-month,1
+88,44,21,1025,Month-to-month,0
+89,34,45,1569,One year,1
+90,10,33,279,Month-to-month,0
+91,36,78,2844,Month-to-month,0
+92,14,75,1200,Two year,0
+93,31,26,973,One year,0
+94,48,22,1419,Month-to-month,0
+95,15,42,432,Month-to-month,0
+96,8,37,208,One year,0
+97,14,57,476,Two year,1
+98,23,34,968,One year,1
+99,57,83,4665,One year,0
+100,40,47,1921,Month-to-month,0
+101,21,93,1833,Month-to-month,0
+102,16,58,863,Two year,0
+103,45,76,3664,Month-to-month,0
+104,18,36,786,Month-to-month,0
+105,47,63,2939,One year,0
+106,53,44,2485,Month-to-month,1
+107,24,36,1021,Two year,0
+108,26,32,754,One year,0
+109,25,44,807,Two year,0
+110,45,87,3736,One year,0
+111,41,29,921,Month-to-month,0
+112,29,86,2726,One year,0
+113,15,37,822,One year,0
+114,45,53,2702,Month-to-month,1
+115,1,27,-376,Month-to-month,0
+116,25,59,1689,Two year,0
+117,7,61,869,Two year,0
+118,9,60,762,Month-to-month,1
+119,24,25,170,Month-to-month,0
+120,1,71,424,Month-to-month,1
+121,44,45,1988,One year,1
+122,8,83,618,One year,0
+123,24,78,1962,One year,1
+124,11,75,616,Month-to-month,1
+125,51,78,3978,Two year,1
+126,17,89,1837,Month-to-month,0
+127,8,52,540,One year,0
+128,35,72,2531,One year,0
+129,35,41,1452,Month-to-month,0
+130,33,40,1084,Month-to-month,0
+131,59,89,5222,One year,0
+132,5,89,119,One year,1
+133,42,23,1170,One year,1
+134,39,94,3229,Month-to-month,0
+135,58,81,4868,One year,1
+136,41,81,3516,One year,1
+137,28,43,1467,Two year,0
+138,7,74,535,Month-to-month,0
+139,9,28,435,Two year,0
+140,8,22,145,Two year,0
+141,12,50,363,One year,0
+142,34,59,2312,Month-to-month,0
+143,33,55,1796,One year,0
+144,48,43,1783,Month-to-month,0
+145,55,25,1282,Two year,1
+146,23,85,1870,Month-to-month,0
+147,24,94,2348,One year,1
+148,37,23,1320,One year,1
+149,35,98,3534,One year,1
+150,44,25,1141,Month-to-month,1
+151,40,70,3291,Two year,1
+152,22,81,1977,Two year,0
+153,27,76,2102,Month-to-month,0
+154,35,85,2880,One year,0
+155,1,98,161,Two year,0
+156,35,94,3277,One year,0
+157,37,27,1017,Month-to-month,0
+158,47,45,2377,One year,1
+159,14,70,872,Two year,1
+160,3,64,294,Two year,1
+161,1,63,252,One year,0
+162,5,24,-12,Month-to-month,0
+163,26,89,2150,One year,0
+164,55,45,2445,Month-to-month,0
+165,14,87,1126,One year,0
+166,39,38,1712,Two year,0
+167,27,39,853,Month-to-month,1
+168,9,31,292,Month-to-month,0
+169,15,66,1499,Month-to-month,0
+170,15,20,382,Two year,0
+171,26,33,973,One year,0
+172,42,83,3718,Two year,0
+173,13,57,649,Month-to-month,1
+174,51,56,2640,One year,0
+175,32,30,995,Two year,0
+176,39,96,3797,Month-to-month,0
+177,49,22,755,Month-to-month,0
+178,52,52,2779,Two year,0
+179,32,25,1013,Two year,0
+180,4,69,94,Two year,0
+181,30,29,957,Month-to-month,0
+182,37,24,1066,Two year,0
+183,23,42,1083,Month-to-month,0
+184,39,29,1267,Two year,1
+185,45,63,2787,Month-to-month,0
+186,15,21,90,Month-to-month,0
+187,43,32,1287,One year,0
+188,29,59,1594,Two year,0
+189,36,21,740,Two year,0
+190,13,84,1310,Month-to-month,0
+191,32,82,2362,Month-to-month,0
+192,7,92,672,Month-to-month,1
+193,59,36,1912,One year,0
+194,51,28,1280,One year,1
+195,22,94,2179,Month-to-month,0
+196,28,34,715,Two year,1
+197,2,43,232,Two year,1
+198,42,57,2124,One year,0
+199,45,54,2563,One year,1
+200,57,68,3567,Month-to-month,0
+201,53,88,4541,Two year,1
+202,6,81,865,Month-to-month,0
+203,28,79,2553,One year,0
+204,28,69,1850,Two year,0
+205,44,97,4345,Two year,1
+206,44,94,4376,One year,0
+207,20,28,696,Month-to-month,0
+208,30,53,1536,Month-to-month,0
+209,11,95,896,Two year,1
+210,58,54,3305,One year,0
+211,55,20,1326,Two year,0
+212,28,59,1995,One year,0
+213,25,83,1738,Month-to-month,0
+214,39,41,1349,One year,0
+215,33,79,2839,Month-to-month,1
+216,1,83,-227,One year,0
+217,57,91,5434,Two year,0
+218,27,30,768,Month-to-month,0
+219,57,33,1777,Two year,0
+220,52,79,4149,Two year,0
+221,13,49,368,Month-to-month,0
+222,41,54,2378,Month-to-month,0
+223,3,56,505,Two year,1
+224,39,24,1110,Two year,0
+225,6,97,533,Two year,1
+226,8,45,53,Two year,1
+227,27,81,1888,Month-to-month,0
+228,9,23,-58,Month-to-month,1
+229,37,61,2255,Two year,0
+230,33,37,1243,One year,0
+231,51,59,3182,One year,0
+232,42,91,3463,Month-to-month,0
+233,44,58,2814,Two year,0
+234,24,33,930,Two year,0
+235,15,51,700,Month-to-month,0
+236,59,70,3893,One year,0
+237,54,57,3327,One year,1
+238,32,42,1284,One year,0
+239,32,82,2620,Month-to-month,0
+240,24,34,892,One year,0
+241,41,44,1622,Month-to-month,0
+242,52,36,1816,Month-to-month,0
+243,49,85,4338,Two year,1
+244,49,97,4905,One year,0
+245,58,72,4330,Month-to-month,0
+246,52,70,3409,One year,1
+247,12,58,649,One year,1
+248,39,70,2651,Two year,0
+249,2,89,263,One year,0
+250,3,25,142,Two year,0
+251,49,86,4245,Month-to-month,0
+252,37,26,1455,One year,0
+253,49,70,3372,Month-to-month,0
+254,56,91,5015,One year,1
+255,17,61,806,Month-to-month,1
+256,59,83,4590,One year,0
+257,49,34,1422,One year,0
+258,2,48,-47,One year,0
+259,2,52,366,One year,0
+260,28,46,1295,One year,0
+261,54,55,3008,One year,1
+262,23,48,1085,One year,0
+263,37,57,2182,One year,0
+264,32,76,2712,One year,1
+265,33,46,1120,Month-to-month,0
+266,1,74,317,Two year,0
+267,19,52,485,One year,0
+268,2,87,179,Two year,0
+269,53,85,4943,One year,1
+270,44,29,1412,One year,0
+271,26,24,698,Month-to-month,0
+272,32,93,3376,Month-to-month,0
+273,6,57,202,Two year,1
+274,32,32,1110,Month-to-month,0
+275,55,50,2865,Month-to-month,0
+276,4,66,160,Two year,0
+277,55,71,3819,Month-to-month,0
+278,11,75,717,One year,0
+279,56,34,1921,Two year,0
+280,59,48,2941,Two year,0
+281,17,27,483,One year,0
+282,38,24,1053,Month-to-month,1
+283,24,48,759,Two year,0
+284,5,66,287,Two year,0
+285,52,87,4320,One year,0
+286,34,95,3290,One year,1
+287,6,64,441,Month-to-month,0
+288,22,21,439,Two year,1
+289,11,46,608,Month-to-month,1
+290,48,55,2839,Month-to-month,0
+291,16,55,868,One year,1
+292,33,45,1275,Two year,0
+293,9,62,242,Two year,0
+294,59,46,2721,Two year,1
+295,6,88,576,One year,0
+296,16,39,431,One year,0
+297,29,30,1015,One year,0
+298,3,93,188,One year,0
+299,20,57,809,One year,1
+300,59,25,1726,Two year,0
+301,36,91,3504,Month-to-month,0
+302,19,42,395,Two year,0
+303,26,66,1604,Month-to-month,0
+304,3,65,75,One year,1
+305,19,31,916,Month-to-month,0
+306,20,32,621,Two year,1
+307,32,81,2293,Two year,0
+308,7,79,729,Month-to-month,0
+309,52,62,2978,One year,0
+310,41,95,3843,One year,0
+311,33,87,2718,Two year,0
+312,40,24,848,Month-to-month,0
+313,39,56,2371,One year,0
+314,18,91,1942,One year,1
+315,40,50,1746,Two year,0
+316,1,28,153,One year,0
+317,11,70,624,Month-to-month,0
+318,28,48,1204,Two year,0
+319,57,97,5627,Two year,0
+320,25,59,1270,Month-to-month,1
+321,50,60,3094,Two year,1
+322,23,30,836,One year,0
+323,31,42,1216,One year,0
+324,30,20,865,Month-to-month,0
+325,42,65,2476,One year,0
+326,35,40,1669,Month-to-month,0
+327,7,55,-3,Month-to-month,0
+328,16,73,1707,One year,0
+329,26,76,1895,Month-to-month,0
+330,48,20,728,One year,1
+331,57,82,4628,Two year,0
+332,52,73,3587,Two year,0
+333,49,74,3703,Month-to-month,0
+334,2,59,391,One year,0
+335,1,34,-164,One year,1
+336,48,40,2035,Two year,1
+337,12,66,486,Two year,1
+338,5,92,666,One year,0
+339,37,72,2747,Month-to-month,0
+340,32,28,1111,Two year,0
+341,59,93,5463,Month-to-month,1
+342,55,71,3818,Month-to-month,0
+343,9,76,847,Two year,1
+344,41,45,1584,Month-to-month,1
+345,35,60,1752,Month-to-month,0
+346,19,54,1026,One year,0
+347,48,82,3859,Month-to-month,0
+348,16,44,814,One year,1
+349,3,94,500,Two year,0
+350,20,57,1246,Two year,1
+351,24,21,706,One year,0
+352,54,26,1468,Two year,0
+353,56,53,3066,Month-to-month,1
+354,33,36,1165,Month-to-month,0
+355,24,62,1581,Month-to-month,0
+356,52,78,4089,Two year,0
+357,11,70,835,Month-to-month,0
+358,49,73,3544,Two year,1
+359,8,43,505,Month-to-month,0
+360,36,44,1442,One year,1
+361,38,90,3417,Two year,1
+362,40,71,3102,Two year,0
+363,20,89,1591,Month-to-month,0
+364,35,52,1388,Two year,0
+365,48,68,3337,Two year,0
+366,25,48,1149,One year,1
+367,35,82,3072,One year,0
+368,25,41,999,Month-to-month,0
+369,29,45,1185,One year,0
+370,18,47,831,Month-to-month,0
+371,46,68,3346,Month-to-month,0
+372,18,90,1735,Month-to-month,1
+373,2,68,-350,Two year,0
+374,54,39,2143,One year,0
+375,35,82,2917,Month-to-month,0
+376,16,80,1277,One year,0
+377,41,68,2666,Month-to-month,0
+378,36,90,3478,One year,0
+379,33,20,908,One year,0
+380,4,32,-312,Month-to-month,0
+381,33,70,2151,Two year,0
+382,14,75,1022,One year,0
+383,21,81,1890,Two year,1
+384,48,51,2454,Two year,1
+385,20,49,844,Month-to-month,0
+386,56,48,2829,Month-to-month,1
+387,8,68,502,Month-to-month,1
+388,7,64,425,One year,0
+389,3,49,142,Month-to-month,0
+390,17,35,709,Month-to-month,1
+391,33,59,1886,One year,0
+392,48,38,1961,One year,0
+393,12,37,430,Month-to-month,1
+394,59,20,967,Month-to-month,0
+395,51,97,4940,Month-to-month,0
+396,22,66,1249,Month-to-month,1
+397,55,85,4683,Two year,0
+398,22,57,1419,Two year,0
+399,46,70,3006,Month-to-month,0
+400,30,82,2532,Two year,0
+401,38,23,709,One year,1
+402,38,20,800,Two year,0
+403,45,27,1387,Two year,0
+404,51,48,2023,Month-to-month,0
+405,54,74,3774,Two year,0
+406,8,22,103,Two year,0
+407,27,51,1440,Two year,1
+408,27,29,750,Two year,0
+409,34,93,3153,One year,0
+410,21,53,1521,Month-to-month,0
+411,30,74,1978,Month-to-month,1
+412,33,51,1910,One year,1
+413,28,69,1863,Two year,1
+414,47,26,1331,One year,1
+415,33,27,1316,Two year,1
+416,5,84,557,One year,0
+417,48,76,3722,Month-to-month,0
+418,19,86,1953,Month-to-month,0
+419,4,78,536,Month-to-month,1
+420,35,91,3026,Two year,1
+421,49,73,3635,Two year,0
+422,17,86,1119,One year,1
+423,44,70,2972,One year,0
+424,28,27,818,Month-to-month,0
+425,30,53,1470,Two year,0
+426,29,54,1620,One year,0
+427,46,97,4460,Two year,0
+428,53,51,2810,Two year,0
+429,6,65,306,Month-to-month,0
+430,35,35,1037,Month-to-month,0
+431,41,87,3862,Two year,1
+432,37,56,1973,Two year,1
+433,24,73,1884,Two year,1
+434,29,33,1244,Two year,0
+435,49,74,3658,Month-to-month,0
+436,46,67,2911,One year,0
+437,53,26,1343,Month-to-month,0
+438,31,93,3086,One year,0
+439,35,26,951,Two year,0
+440,33,52,1475,One year,0
+441,52,42,2303,Month-to-month,0
+442,21,38,951,Month-to-month,0
+443,32,38,1145,Two year,0
+444,23,55,1387,Month-to-month,0
+445,33,48,1633,Two year,0
+446,3,79,198,Month-to-month,0
+447,18,21,120,Month-to-month,0
+448,25,20,715,Two year,0
+449,42,66,2923,One year,0
+450,31,88,2844,Month-to-month,0
+451,54,39,2414,One year,0
+452,58,30,1929,Month-to-month,0
+453,3,21,200,Month-to-month,0
+454,40,86,2998,Month-to-month,1
+455,46,31,1665,Month-to-month,0
+456,24,39,952,One year,0
+457,50,24,1262,One year,0
+458,32,56,1855,Month-to-month,0
+459,47,57,2833,Month-to-month,0
+460,22,28,840,One year,0
+461,23,72,1782,Two year,1
+462,2,63,221,Two year,0
+463,27,43,1207,One year,0
+464,42,93,3236,Month-to-month,0
+465,2,49,41,Month-to-month,1
+466,26,78,1840,Two year,0
+467,17,33,803,Two year,1
+468,40,28,1243,One year,0
+469,33,59,1856,Two year,1
+470,9,85,694,One year,1
+471,43,44,1814,Two year,0
+472,54,92,4886,Two year,0
+473,48,41,1680,Two year,0
+474,39,23,565,Month-to-month,0
+475,29,45,1310,Month-to-month,0
+476,42,77,3449,Month-to-month,0
+477,55,48,2533,Two year,0
+478,26,56,1516,One year,0
+479,35,94,3436,One year,1
+480,50,89,4252,One year,0
+481,25,37,922,One year,0
+482,24,61,1331,Month-to-month,0
+483,13,60,1101,Month-to-month,1
+484,58,57,3618,Two year,0
+485,7,53,173,Two year,0
+486,57,36,2129,One year,0
+487,36,56,2229,Month-to-month,0
+488,45,44,2149,One year,0
+489,20,95,1916,Two year,1
+490,1,46,307,Two year,1
+491,8,76,428,One year,0
+492,46,50,2240,Two year,1
+493,16,25,225,One year,0
+494,14,59,982,Month-to-month,0
+495,12,31,256,One year,1
+496,51,72,3638,Month-to-month,0
+497,23,90,2193,Month-to-month,1
+498,15,29,574,Two year,0
+499,28,64,1611,Two year,0
+500,34,36,1435,Two year,0
+501,2,45,181,One year,0
+502,32,81,2376,One year,0
+503,23,65,1230,Two year,1
+504,22,83,1823,One year,0
+505,51,21,1241,Two year,1
+506,25,73,2000,One year,1
+507,58,84,4943,Month-to-month,0
+508,22,70,1549,Month-to-month,0
+509,58,72,4278,Two year,0
+510,58,55,3019,One year,0
+511,22,45,1327,One year,1
+512,49,48,2686,Month-to-month,0
+513,52,40,2165,Month-to-month,0
+514,42,30,1299,Two year,0
+515,6,59,272,Month-to-month,0
+516,15,30,555,Two year,0
+517,54,55,2832,Month-to-month,0
+518,43,78,2910,Month-to-month,0
+519,37,58,1604,One year,0
+520,33,73,2250,Month-to-month,0
+521,8,74,623,Month-to-month,0
+522,53,43,2345,Two year,0
+523,44,41,1707,Month-to-month,1
+524,44,88,3900,Two year,0
+525,5,75,321,Month-to-month,0
+526,39,52,1829,Month-to-month,0
+527,4,55,210,Two year,0
+528,6,39,396,One year,1
+529,45,81,3455,Two year,0
+530,32,92,2754,Two year,0
+531,52,45,2127,Two year,1
+532,30,85,2163,One year,0
+533,47,92,4228,Month-to-month,0
+534,35,92,3362,Two year,0
+535,55,59,3279,Two year,0
+536,40,36,1407,One year,0
+537,52,20,1065,Two year,0
+538,16,80,1183,Month-to-month,1
+539,13,62,417,One year,1
+540,50,61,3206,Month-to-month,0
+541,42,44,2062,Month-to-month,0
+542,30,58,1595,One year,1
+543,19,54,996,Two year,0
+544,17,22,327,Month-to-month,1
+545,56,63,3598,Month-to-month,1
+546,19,70,1667,Month-to-month,0
+547,28,31,1099,Month-to-month,0
+548,58,38,2129,One year,0
+549,55,63,3573,One year,0
+550,26,78,2278,Month-to-month,1
+551,37,68,2597,Two year,0
+552,26,80,2080,Month-to-month,1
+553,53,36,1997,Two year,0
+554,23,93,1999,Month-to-month,0
+555,9,76,573,Two year,0
+556,12,74,676,Month-to-month,0
+557,53,66,3559,Two year,0
+558,1,31,5,Month-to-month,0
+559,58,81,4534,Month-to-month,1
+560,58,99,5710,Two year,0
+561,1,27,120,One year,0
+562,47,40,2262,Two year,0
+563,34,99,3568,One year,1
+564,32,89,2392,Month-to-month,0
+565,54,91,4961,Two year,0
+566,48,44,2397,Two year,1
+567,25,31,508,Two year,1
+568,40,34,1470,One year,0
+569,45,78,3463,One year,0
+570,53,45,2615,Month-to-month,0
+571,1,45,125,One year,0
+572,16,66,880,One year,1
+573,39,51,1949,Month-to-month,0
+574,5,29,117,Two year,1
+575,22,35,746,Two year,0
+576,29,90,2833,Month-to-month,0
+577,55,36,1812,Two year,0
+578,3,42,326,One year,0
+579,12,45,480,Month-to-month,1
+580,26,26,720,Month-to-month,1
+581,16,33,542,Month-to-month,0
+582,51,98,4994,Two year,0
+583,37,26,960,Month-to-month,0
+584,22,28,907,Month-to-month,0
+585,57,67,3987,Month-to-month,0
+586,29,91,2567,Two year,0
+587,14,78,1408,One year,0
+588,28,58,1678,Month-to-month,1
+589,5,37,256,One year,0
+590,47,78,3499,Two year,0
+591,49,36,1665,Two year,0
+592,30,33,853,Two year,0
+593,46,50,2317,Two year,0
+594,52,43,2363,One year,1
+595,5,79,468,Month-to-month,1
+596,12,64,1085,Two year,0
+597,16,22,175,Two year,0
+598,26,56,1478,One year,0
+599,26,62,1356,One year,1
+600,48,59,2648,Two year,0
+601,21,74,1806,Month-to-month,0
+602,39,58,2170,Month-to-month,0
+603,36,34,1064,Two year,0
+604,33,23,334,One year,0
+605,30,44,1158,Two year,1
+606,37,32,1143,Two year,0
+607,23,52,925,One year,0
+608,58,35,1978,Two year,0
+609,10,61,864,Two year,1
+610,54,85,4449,Two year,1
+611,5,74,182,One year,0
+612,36,61,1972,Month-to-month,1
+613,34,53,1574,Month-to-month,0
+614,52,49,2655,One year,0
+615,31,32,1001,Month-to-month,0
+616,10,32,511,Two year,0
+617,58,37,2549,Month-to-month,0
+618,19,51,603,Two year,0
+619,58,58,3440,Month-to-month,0
+620,32,65,1857,One year,1
+621,1,48,205,Month-to-month,0
+622,56,81,4482,Month-to-month,0
+623,5,81,410,Month-to-month,0
+624,45,76,3164,One year,0
+625,4,35,55,Month-to-month,0
+626,16,75,1217,One year,0
+627,24,29,967,Two year,1
+628,16,49,626,Month-to-month,0
+629,55,44,2310,One year,0
+630,2,24,236,One year,1
+631,49,84,3945,Month-to-month,0
+632,28,68,2132,Two year,0
+633,32,22,703,One year,0
+634,27,64,1788,Month-to-month,0
+635,20,33,733,Two year,0
+636,24,49,1053,One year,0
+637,12,87,1121,One year,0
+638,50,37,1696,Two year,0
+639,35,81,2735,Two year,1
+640,33,56,1959,Month-to-month,0
+641,33,44,1510,Month-to-month,0
+642,51,67,3403,One year,1
+643,43,84,3361,Two year,0
+644,37,72,2463,Two year,0
+645,12,98,1231,Two year,1
+646,3,92,422,One year,0
+647,1,34,-187,Two year,0
+648,33,68,2077,Two year,1
+649,40,87,3506,One year,0
+650,10,31,332,Month-to-month,0
+651,43,78,3030,Month-to-month,0
+652,44,56,2496,One year,0
+653,29,80,2201,Two year,0
+654,13,62,1134,One year,1
+655,12,89,1117,Month-to-month,0
+656,31,58,1882,Month-to-month,1
+657,46,75,3539,One year,0
+658,2,82,-78,One year,1
+659,51,65,3703,Month-to-month,0
+660,50,30,1176,One year,0
+661,35,81,2994,Month-to-month,0
+662,23,96,2331,One year,0
+663,17,44,653,One year,0
+664,26,90,2473,One year,1
+665,8,71,505,Month-to-month,1
+666,29,23,532,One year,0
+667,26,78,2121,Month-to-month,0
+668,10,91,709,Month-to-month,0
+669,26,39,970,One year,0
+670,34,82,2670,One year,0
+671,51,73,3656,Month-to-month,1
+672,41,93,3899,Month-to-month,1
+673,7,76,414,Two year,0
+674,4,60,202,Month-to-month,0
+675,58,22,1176,Two year,0
+676,53,25,1613,Two year,0
+677,50,24,1268,Two year,0
+678,45,24,1124,One year,0
+679,11,73,939,One year,1
+680,29,66,1796,Month-to-month,0
+681,56,68,3979,Two year,0
+682,36,28,1077,One year,1
+683,25,39,663,One year,1
+684,21,80,1395,One year,0
+685,57,54,2964,One year,0
+686,36,69,2220,One year,0
+687,10,81,763,Two year,1
+688,37,36,1130,Two year,0
+689,9,22,179,Two year,0
+690,24,51,1506,Two year,0
+691,35,32,1111,Month-to-month,1
+692,49,92,4448,Two year,0
+693,35,87,3122,One year,0
+694,48,33,1445,Two year,0
+695,36,30,1248,Month-to-month,0
+696,18,75,1449,One year,0
+697,49,86,4221,Two year,1
+698,39,48,1902,Two year,1
+699,32,28,1304,Two year,0
+700,24,86,2252,One year,0
+701,23,44,1451,One year,0
+702,32,95,3146,Month-to-month,0
+703,37,61,1963,One year,0
+704,12,28,284,One year,1
+705,49,98,4462,Two year,0
+706,55,59,3350,One year,0
+707,13,44,721,Two year,0
+708,23,24,375,Two year,1
+709,25,30,619,One year,0
+710,35,78,2759,Month-to-month,1
+711,41,98,3779,Month-to-month,1
+712,30,57,1456,One year,0
+713,17,91,1794,Month-to-month,0
+714,49,24,1198,Two year,0
+715,20,67,1229,Two year,0
+716,48,37,1438,One year,0
+717,25,89,2395,Month-to-month,0
+718,22,56,1096,Month-to-month,0
+719,13,79,1399,Two year,0
+720,59,67,4124,One year,0
+721,19,96,1663,Month-to-month,1
+722,49,47,2160,One year,0
+723,36,88,3512,Month-to-month,0
+724,12,96,1136,Two year,0
+725,41,59,2317,Two year,0
+726,19,64,1221,One year,0
+727,12,81,869,Two year,0
+728,9,77,741,Month-to-month,0
+729,7,86,587,Two year,0
+730,28,75,2275,One year,0
+731,14,59,749,One year,0
+732,31,59,1653,One year,0
+733,52,96,4923,Month-to-month,0
+734,19,52,917,Month-to-month,0
+735,58,25,1435,Month-to-month,0
+736,47,38,1912,Month-to-month,0
+737,16,99,1699,Month-to-month,0
+738,53,59,3366,Two year,0
+739,5,78,228,Month-to-month,0
+740,35,78,2807,Month-to-month,1
+741,12,67,949,Two year,1
+742,25,60,1366,Month-to-month,0
+743,52,32,1623,One year,0
+744,59,64,3427,Month-to-month,0
+745,21,72,1693,Month-to-month,0
+746,36,61,2153,One year,0
+747,53,82,4507,One year,0
+748,23,46,1099,One year,0
+749,16,57,875,One year,1
+750,57,79,4185,Month-to-month,0
+751,39,26,732,One year,0
+752,45,24,562,One year,0
+753,53,64,3280,Two year,0
+754,42,77,3689,One year,0
+755,58,50,2643,One year,0
+756,39,42,1112,Two year,1
+757,14,61,1046,Two year,0
+758,31,29,1371,Month-to-month,0
+759,58,51,3017,Two year,1
+760,5,72,417,Month-to-month,0
+761,35,49,1654,Two year,1
+762,23,58,976,Two year,0
+763,29,50,1160,Month-to-month,0
+764,43,21,840,Two year,0
+765,11,97,966,Month-to-month,0
+766,18,96,1705,Two year,0
+767,47,31,1622,One year,0
+768,12,58,580,Two year,1
+769,9,85,934,Month-to-month,1
+770,10,32,205,Two year,0
+771,58,65,3977,Month-to-month,0
+772,44,46,2041,Month-to-month,0
+773,17,36,525,One year,0
+774,38,79,3015,One year,0
+775,7,83,523,Month-to-month,0
+776,46,54,2506,Two year,0
+777,13,89,1308,Month-to-month,0
+778,40,49,1943,Month-to-month,1
+779,42,90,3707,Two year,0
+780,9,93,613,Two year,0
+781,50,82,4215,Two year,0
+782,27,47,1338,Two year,0
+783,58,79,4346,Month-to-month,0
+784,2,98,363,Month-to-month,0
+785,5,56,41,One year,1
+786,29,41,1394,Month-to-month,0
+787,37,87,3356,Two year,0
+788,38,39,1565,One year,1
+789,19,87,1578,Two year,1
+790,8,83,779,Month-to-month,0
+791,48,36,1943,One year,0
+792,45,31,1513,Two year,0
+793,1,41,-93,One year,0
+794,22,36,845,One year,0
+795,52,29,1734,Month-to-month,0
+796,17,84,1867,Two year,0
+797,7,41,246,One year,0
+798,25,69,1896,One year,0
+799,45,33,1711,Two year,0
+800,4,83,170,One year,0
+801,36,66,2732,One year,0
+802,6,48,75,One year,0
+803,31,95,3106,Two year,0
+804,19,55,1106,Two year,0
+805,44,71,3135,Two year,0
+806,54,95,5639,Two year,0
+807,39,26,954,Month-to-month,0
+808,27,48,1233,One year,1
+809,10,30,566,Two year,1
+810,26,52,1504,One year,0
+811,19,25,731,One year,0
+812,39,98,3845,Month-to-month,0
+813,3,51,216,Two year,0
+814,45,70,3530,Two year,0
+815,13,94,1055,One year,1
+816,50,77,3830,Two year,0
+817,28,45,1419,One year,0
+818,58,65,3731,One year,1
+819,20,48,846,Month-to-month,1
+820,28,23,767,Month-to-month,1
+821,8,32,523,Month-to-month,0
+822,41,58,2350,One year,0
+823,39,34,1293,Two year,0
+824,1,48,-81,Month-to-month,0
+825,3,48,85,Two year,0
+826,13,94,1438,Month-to-month,0
+827,28,51,1444,Month-to-month,1
+828,57,21,1037,One year,0
+829,49,66,3286,Month-to-month,0
+830,25,97,2635,Month-to-month,0
+831,56,41,2184,One year,0
+832,33,94,2837,Two year,0
+833,38,46,2186,Month-to-month,0
+834,53,86,4283,One year,0
+835,6,75,379,Month-to-month,0
+836,58,40,2366,One year,0
+837,44,66,2850,Two year,1
+838,45,99,4441,Two year,0
+839,32,78,2611,One year,0
+840,45,25,647,One year,0
+841,47,38,1533,One year,0
+842,21,76,1604,Two year,0
+843,16,88,1328,Month-to-month,0
+844,54,22,1213,Two year,1
+845,21,20,465,One year,1
+846,11,77,424,One year,0
+847,37,57,2363,Two year,1
+848,36,34,1125,One year,0
+849,35,53,1682,Two year,0
+850,19,80,1561,One year,0
+851,20,54,1101,Month-to-month,0
+852,57,83,4970,Month-to-month,1
+853,18,44,846,One year,0
+854,47,43,2252,Two year,1
+855,41,31,1084,Month-to-month,0
+856,49,37,1841,Two year,0
+857,14,34,254,One year,0
+858,15,99,1504,Two year,0
+859,31,46,1404,Month-to-month,0
+860,1,91,60,Two year,1
+861,53,79,4158,Two year,0
+862,54,65,3657,One year,1
+863,54,36,1623,One year,1
+864,3,72,37,One year,0
+865,16,27,424,Month-to-month,1
+866,23,98,2019,Month-to-month,1
+867,57,46,2631,One year,0
+868,11,65,705,One year,1
+869,12,69,548,Month-to-month,1
+870,10,90,610,Month-to-month,0
+871,32,22,180,Month-to-month,0
+872,16,83,1084,Month-to-month,1
+873,8,63,506,One year,0
+874,38,72,2767,Month-to-month,0
+875,12,43,556,One year,0
+876,24,79,1741,Two year,1
+877,28,22,613,Two year,0
+878,53,39,2146,Month-to-month,1
+879,8,65,267,Two year,0
+880,58,34,1996,Two year,0
+881,28,44,1363,Two year,0
+882,36,97,3394,Month-to-month,0
+883,26,90,2552,Month-to-month,0
+884,8,36,195,Two year,1
+885,58,28,1452,One year,1
+886,50,57,2961,Two year,0
+887,28,67,2282,Month-to-month,0
+888,28,79,2229,Month-to-month,1
+889,37,82,3160,Month-to-month,1
+890,41,21,760,Two year,0
+891,36,91,3028,One year,0
+892,27,30,843,Month-to-month,0
+893,54,83,4546,Month-to-month,1
+894,17,96,1561,Two year,0
+895,9,91,945,One year,0
+896,33,40,1190,Two year,0
+897,53,37,1781,Month-to-month,1
+898,20,83,1872,One year,0
+899,13,57,954,One year,0
+900,28,51,1302,Month-to-month,0
+901,48,30,1783,One year,0
+902,29,64,1799,One year,0
+903,13,52,692,Two year,1
+904,46,60,2744,Month-to-month,1
+905,35,27,1049,Month-to-month,1
+906,6,30,234,Month-to-month,1
+907,18,70,1311,Month-to-month,0
+908,51,60,2857,Month-to-month,1
+909,5,36,-157,One year,0
+910,47,95,4693,Two year,0
+911,25,65,1516,Month-to-month,1
+912,2,51,93,Two year,0
+913,10,98,1045,Two year,0
+914,56,99,5869,One year,0
+915,30,73,2222,Month-to-month,0
+916,50,39,1872,One year,0
+917,59,52,2964,Month-to-month,1
+918,45,93,4178,One year,1
+919,5,59,114,Two year,0
+920,55,51,2810,Month-to-month,0
+921,56,21,1166,Two year,0
+922,33,52,2044,Two year,1
+923,54,96,5168,One year,0
+924,1,49,-335,Month-to-month,0
+925,18,52,1470,Two year,0
+926,32,96,3263,One year,0
+927,47,45,2531,Month-to-month,0
+928,49,41,1778,Month-to-month,1
+929,11,85,891,Two year,0
+930,21,57,1331,Month-to-month,0
+931,26,65,1797,Two year,0
+932,25,34,911,Month-to-month,0
+933,22,63,947,One year,0
+934,59,68,3670,Two year,0
+935,27,94,2841,Two year,0
+936,49,80,4259,Month-to-month,0
+937,13,86,1097,Month-to-month,1
+938,33,25,1103,Two year,0
+939,34,28,748,Month-to-month,1
+940,41,25,867,One year,0
+941,35,92,3000,Month-to-month,1
+942,1,51,-118,One year,0
+943,21,60,1404,One year,1
+944,48,95,4388,One year,0
+945,55,27,1932,One year,0
+946,6,91,638,One year,1
+947,28,69,2148,Month-to-month,0
+948,17,81,1474,One year,0
+949,5,81,647,Month-to-month,0
+950,31,26,633,One year,0
+951,5,94,759,Two year,0
+952,38,99,3790,One year,0
+953,3,23,310,Two year,0
+954,53,25,1038,One year,1
+955,23,77,1807,One year,0
+956,37,41,1546,One year,1
+957,53,45,2262,Two year,1
+958,37,22,876,Two year,0
+959,10,60,907,One year,0
+960,10,79,651,Month-to-month,0
+961,19,33,819,One year,0
+962,17,94,1373,Two year,1
+963,21,31,1072,One year,0
+964,14,31,590,Two year,0
+965,9,32,633,Two year,0
+966,46,44,2158,Two year,0
+967,1,64,142,One year,0
+968,51,38,2096,Two year,0
+969,45,74,3303,Two year,1
+970,13,64,509,One year,0
+971,4,27,197,Two year,0
+972,1,72,-79,One year,1
+973,49,74,3406,Two year,0
+974,40,51,2167,Month-to-month,1
+975,32,70,2185,Month-to-month,1
+976,34,63,2347,Two year,0
+977,28,89,2335,Month-to-month,1
+978,31,37,1053,One year,0
+979,8,41,558,Month-to-month,1
+980,39,56,2239,Two year,0
+981,26,75,1655,Two year,0
+982,58,78,4575,One year,1
+983,34,22,1044,Two year,1
+984,54,47,2443,One year,1
+985,54,93,5141,Month-to-month,0
+986,3,54,-7,Month-to-month,1
+987,59,80,4693,One year,0
+988,50,73,3867,One year,1
+989,12,82,1027,Two year,0
+990,1,98,355,Month-to-month,0
+991,54,26,1489,One year,0
+992,44,95,4623,Month-to-month,0
+993,5,68,28,One year,1
+994,30,50,1457,Month-to-month,0
+995,30,77,2094,Two year,0
+996,59,80,4517,Month-to-month,0
+997,57,43,2250,Month-to-month,1
+998,17,39,696,Month-to-month,0
+999,48,56,2733,Month-to-month,0
+1000,47,23,1166,Month-to-month,0
