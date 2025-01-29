@@ -10,7 +10,7 @@ Data Scientist Coding Exercise
 ```
 git clone https://github.com/stordco/data-science-coding-exercise.git
 ```
-- The 3 CSV files are included in this repository will be needed for this exercise.
+- There are 3 CSV files are included in this repository will be needed for this exercise.
 - There are 3 problem statments below. You are expected to develop the code that fulfills the requirements and provides the desired outputs.
 - Once completed, please share your colab notebook and outputs or zip up the code and outputs. Email it to the Stord talent acquisition team member you have been working with.
 
