@@ -6,7 +6,7 @@ Data Scientist Coding Exercise
 - It is suggested that you as well use Google Colab but please feel free to use whatever platform or coding environment you feel most comfortable with.
 - Ensure that your coding platform (e.g., Google Colab) is set up and fully functional.
 - Confirm that the development environment has the necessary libraries pre-installed (e.g., Python, pandas, scikit-learn, Jupyter Notebook).
-- The 3 CSV files are included in this repository. They will be needed for this exercise.
+- The 3 CSV files are included in this repository will be needed for this exercise.
 - Once completed, please share your colab notebook and outputs or zip up the code and outputs. Email it to the Stord talent acquisition team member you have been working with.
 
 ## Statistical Inference
