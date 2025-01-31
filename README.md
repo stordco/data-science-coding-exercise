@@ -14,6 +14,7 @@ git clone https://github.com/stordco/data-science-coding-exercise.git
 - There are 3 CSV files are included in this repository that will be needed for this exercise as well.
 - You will have 48 hours to complete the assignment.
 - Once completed, please share your google colab notebook and outputs or zip up the code and outputs. Email it to the Stord/Maxima talent acquisition team member that you have been working with.
+- If you have any questions, please send them via email to the Stord/Maxima talent acquisition team member that you have been working with.
 
 ## Statistical Inference
 **Model Building and Evaluation**
