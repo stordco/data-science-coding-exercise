@@ -10,9 +10,10 @@ Data Scientist Coding Exercise
 ```
 git clone https://github.com/stordco/data-science-coding-exercise.git
 ```
-- There are 3 CSV files are included in this repository will be needed for this exercise.
-- There are 3 problem statments below. You are expected to develop the code that fulfills the requirements and provides the desired outputs.
-- Once completed, please share your colab notebook and outputs or zip up the code and outputs. Email it to the Stord talent acquisition team member you have been working with.
+- There are 3 problem statments below. You are expected to develop the code that fulfills the requirements and provide the desired outputs.
+- There are 3 CSV files are included in this repository that will be needed for this exercise as well.
+- You will have 48 hours to complete the assignment.
+- Once completed, please share your google colab notebook and outputs or zip up the code and outputs. Email it to the Stord/Maxima talent acquisition team member that you have been working with.
 
 ## Statistical Inference
 **Model Building and Evaluation**
